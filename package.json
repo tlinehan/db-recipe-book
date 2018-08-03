@@ -1,0 +1,15 @@
+{
+  "name": "db-recipe-book",
+  "version": "3.3.3",
+  "description": "build project using migrations and seeds",
+  "main": "server.js",
+  "repository": "https://github.com/tlinehan/db-recipe-book",
+  "author": "-tristan-",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "knex": "^0.15.2",
+    "sqlite3": "^4.0.2"
+  }
+}
